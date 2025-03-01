@@ -1,3 +1,8 @@
+# ---------------------------------------------------------------------------------
+# 2. Análisis de correlaciones con el Precio de Venta
+# ---------------------------------------------------------------------------------
+
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
